@@ -40,6 +40,8 @@
       }
     </style>
 
+    <link rel="stylesheet" href="<?php echo $dir_ws."assets/"?>styles.css">
+
     
     <!-- Custom styles for this template -->
     <link href="sticky-footer-navbar.css" rel="stylesheet">
